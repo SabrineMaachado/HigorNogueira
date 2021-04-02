@@ -1,0 +1,24 @@
+.flex-center{
+    display: flex ;
+    justify-content: center ;
+}
+
+.margin-top{
+    margin-top: 2em;
+}
+
+.icon{
+    margin: 20px;
+    color: white;
+}
+
+.iconMund{
+    margin-top: -4px;
+    color: white;
+}
+ @media (max-width: 1000px){
+    #orientaçãoMobile{
+        display: flex;
+        flex-direction: column;
+    }
+ }
